@@ -1,7 +1,7 @@
 # Face-Mask-Detection
 Created a face mask detection model using basics of machine learning.
 
-# Algorithm Used:
+## Algorithm Used:
 Voila Jones Object Detection Algorithm:
 Developed in 2001 by Paul Viola and Michael Jones, the Viola-Jones algorithm is an object-recognition framework that allows the detection of image features in real-time.
 Despite being an outdated framework, Viola-Jones is quite powerful and its application has proven to be exceptionally notable in real-time face detection.
