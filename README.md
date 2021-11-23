@@ -2,7 +2,7 @@
 Created a face mask detection model using basics of machine learning.
 
 ## Algorithm Used:
-Voila Jones Object Detection Algorithm:
+> Voila Jones Object Detection Algorithm:
 Developed in 2001 by Paul Viola and Michael Jones, the Viola-Jones algorithm is an object-recognition framework that allows the detection of image features in real-time.
 Despite being an outdated framework, Viola-Jones is quite powerful and its application has proven to be exceptionally notable in real-time face detection.
 1. How it works
@@ -32,5 +32,5 @@ In this work, a deep learning based model for detecting masks over faces in publ
 ## What is facemak Detection 
 The high accuracy of model is also due to highly balanced face mask centric dataset achieved through Random over-sampling with data augmentation over original MAFA dataset. Our technique reduces the imbalance ratio ρ = 11.82 (original) to ρ = 1.07.
 
-About Classification Algorithm:
+## About Classification Algorithm:
 > The Classification algorithm is a Supervised Learning technique that is used to identify the category of new observations on the basis of training data. In Classification, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups. Such as, Yes or No, 0 or 1, Spam or Not Spam, cat or dog, etc. Classes can be called as targets/labels or categories.
