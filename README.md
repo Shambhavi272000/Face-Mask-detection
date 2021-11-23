@@ -26,3 +26,6 @@ Four-sided features
 These features help the machine understand what the image is. Imagine what the edge of a table would look like on a b&w image. One side will be lighter than the other, creating that edge like b&w feature as you can see in the picture above.
 In the two important features for Face Detection, the horizontal and the vertical features describe what eyebrows and the nose, respectively, look like to the machine.
 Additionally, when the images are inspected, each feature has a value of its own.
+
+## What is facemak Detection 
+The high accuracy of model is also due to highly balanced face mask centric dataset achieved through Random over-sampling with data augmentation over original MAFA dataset. Our technique reduces the imbalance ratio ρ = 11.82 (original) to ρ = 1.07.
