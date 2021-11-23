@@ -7,9 +7,9 @@ Developed in 2001 by Paul Viola and Michael Jones, the Viola-Jones algorithm is 
 Despite being an outdated framework, Viola-Jones is quite powerful and its application has proven to be exceptionally notable in real-time face detection.
 1. How it works
 There are 2 stages in the Viola-Jones Algorithm:
-Training
-Detection
-Training comes before detection, but for explanation’s sake, I’ll discuss detection first.
+  > Training
+  > Detection
+    Training comes before detection, but for explanation’s sake, I’ll discuss detection first.
 2. Detection
 Viola-Jones was designed for frontal faces, so it is able to detect frontal the best rather than faces looking sideways, upwards or downwards. Before detecting a face, the image is converted into grayscale, since it is easier to work with and there’s lesser data to process. The Viola-Jones algorithm first detects the face on the grayscale image and then finds the location on the colored image.
 
