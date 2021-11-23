@@ -27,5 +27,7 @@ These features help the machine understand what the image is. Imagine what the e
 In the two important features for Face Detection, the horizontal and the vertical features describe what eyebrows and the nose, respectively, look like to the machine.
 Additionally, when the images are inspected, each feature has a value of its own.
 
+In this work, a deep learning based model for detecting masks over faces in public place to curtail community spread of Coronavirus is presented. The proposed model efficiently handles varying kinds of occlusions in dense situation by making use of ensemble of single and two stage detectors. The ensemble approach not only helps in achieving high accuracy but also improves detection speed considerably. The model is 98.2% accurate at mask detection with average inference times of 0.05 seconds per image.
+
 ## What is facemak Detection 
 The high accuracy of model is also due to highly balanced face mask centric dataset achieved through Random over-sampling with data augmentation over original MAFA dataset. Our technique reduces the imbalance ratio ρ = 11.82 (original) to ρ = 1.07.
