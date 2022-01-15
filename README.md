@@ -1,4 +1,4 @@
-# Face-Mask-Detection
+# Face-Mask-Detection-System
 Created a face mask detection model using basics of machine learning.
 
 ## Algorithm Used:
